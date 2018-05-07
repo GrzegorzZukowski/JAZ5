@@ -1,0 +1,31 @@
+Zapisanie nowego filmu/aktualizacja:
+
+{
+"title" : "Fight Club",
+"year" : "1999"
+}
+
+Dodanie komentarza do filmu:
+
+{
+"content" : "Kultowy film na podstawie powieœci Chuck'a Palahniuk'a"
+}
+
+Dodanie oceny do filmu:
+
+{
+"rating" : 10
+}
+
+Zapisanie nowego aktora/aktualizacja:
+
+{
+"name" : "Brad",
+"surname" : "Pitt"
+}
+
+Dodanie filmu o okreœlonym id do aktora (jednoczeœnie dodaje aktora filmu):
+
+{
+"id" : 1
+}
